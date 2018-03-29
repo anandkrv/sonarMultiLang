@@ -1,0 +1,14 @@
+D:\pluralsight\Check\Check\bin\Debug\Check.exe.config
+D:\pluralsight\Check\Check\bin\Debug\Check.exe
+D:\pluralsight\Check\Check\bin\Debug\Check.pdb
+D:\pluralsight\Check\Check\obj\Debug\Check.csprojResolveAssemblyReference.cache
+D:\pluralsight\Check\Check\obj\Debug\Check.exe
+D:\pluralsight\Check\Check\obj\Debug\Check.pdb
+D:\pluralsight\Check\Check\obj\Debug\Check.csproj.CoreCompileInputs.cache
+D:\test\Check\Check\bin\Debug\Check.exe.config
+D:\test\Check\Check\bin\Debug\Check.exe
+D:\test\Check\Check\bin\Debug\Check.pdb
+D:\test\Check\Check\obj\Debug\Check.csprojResolveAssemblyReference.cache
+D:\test\Check\Check\obj\Debug\Check.csproj.CoreCompileInputs.cache
+D:\test\Check\Check\obj\Debug\Check.exe
+D:\test\Check\Check\obj\Debug\Check.pdb

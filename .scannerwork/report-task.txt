@@ -1,0 +1,6 @@
+projectKey=com.unisys.mf:gsptrunk-branch
+serverUrl=https://ustr-sonar-1.na.uis.unisys.com
+serverVersion=6.7.1.35068
+dashboardUrl=https://ustr-sonar-1.na.uis.unisys.com/dashboard/index/com.unisys.mf:gsptrunk-branch
+ceTaskId=AWJwylRpLIPZanqGVuYC
+ceTaskUrl=https://ustr-sonar-1.na.uis.unisys.com/api/ce/task?id=AWJwylRpLIPZanqGVuYC
